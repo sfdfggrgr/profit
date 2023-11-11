@@ -95,7 +95,7 @@ def running():
     
 
         j=25
-        i=10
+        i=12
         driver1.execute_script("window.scrollBy(0, 100);")
         time.sleep(2)
         #driver1.execute_script("window.scrollBy(0, 70);")
